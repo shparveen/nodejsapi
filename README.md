@@ -1,9 +1,18 @@
 # nodejsapi
-Create authenticated API's in NodeJS
+Star wars REST API created using NODEJS,MySQL
 
-To instal mysql client and mysql server in AWS ec2 instance
-sudo wget https://dev.mysql.com/get/mysql57-community-release-el7-11.noarch.rpm
-sudo yum localinstall mysql57-community-release-el7-11.noarch.rpm 
-sudo yum install mysql-community-server
-systemctl start mysqld.service
+STEPS to use rest api's in any web app.
 
+Check REST API urls in postman or in browser. REST API URLS are as follows:- 1. /api/longestCrawl/ 2. /api/mostAppearCharacter 3. /api/starWarsSpecies 
+
+set BASE_URL in fronend react app
+
+
+DEMO URL :- http://ec2-13-233-194-190.ap-south-1.compute.amazonaws.com:9003/
+
+http://ec2-13-233-194-190.ap-south-1.compute.amazonaws.com:9003/api/longestCrawl
+http://ec2-13-233-194-190.ap-south-1.compute.amazonaws.com:9003/api/mostAppearCharacter
+http://ec2-13-233-194-190.ap-south-1.compute.amazonaws.com:9003/starWarsSpecies
+
+
+Check the api in postman
