@@ -8,7 +8,7 @@ Check REST API urls in postman or in browser. REST API URLS are as follows:- 1. 
 set BASE_URL in fronend react app
 
 
-DEMO URL :- http://ec2-13-233-194-190.ap-south-1.compute.amazonaws.com:9003/
+DEMO URL :- http://ec2-13-233-194-190.ap-south-1.compute.amazonaws.com:9003/api/
 
 http://ec2-13-233-194-190.ap-south-1.compute.amazonaws.com:9003/api/longestCrawl
 http://ec2-13-233-194-190.ap-south-1.compute.amazonaws.com:9003/api/mostAppearCharacter
